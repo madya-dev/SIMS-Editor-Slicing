@@ -1,0 +1,9 @@
+#btn-sidebar {
+  margin: 0;
+  i {
+    font-size: 24px;
+  }
+  &:focus {
+    box-shadow: none;
+  }
+}
